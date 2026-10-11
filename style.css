@@ -613,6 +613,7 @@ h2 {
 .card-pink::before { background: rgba(236, 72, 153, 0.25); }
 .card-green::before { background: rgba(16, 185, 129, 0.25); }
 .card-blue::before { background: rgba(6, 182, 212, 0.25); }
+.card-amber::before { background: rgba(245, 158, 11, 0.25); }
 
 .game-flex {
   position: relative;
